@@ -1,0 +1,7 @@
+.Info.Box{
+    text-align: center;
+}
+.CardContainer {
+    display: flex;
+    justify-content: center;
+}
